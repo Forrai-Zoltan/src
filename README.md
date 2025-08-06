@@ -1,1 +1,7 @@
-# cdn
+
+
+asset
+- font
+- ico
+media
+source
