@@ -1,6 +1,6 @@
 function loadMarkdownFromHash() {
   const slug = location.hash.slice(1) || "home"; // fallback to home
-  const file = `md/${slug}.md`;
+  const file = `shorts/md/${slug}.md`;
 
   fetch(file)
     .then((res) => {
