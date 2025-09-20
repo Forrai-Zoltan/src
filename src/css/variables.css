@@ -111,7 +111,7 @@
   --color-link-dark-visited-hover: hsl(270, 65%, 65%);
   --color-link-dark-visited-active: hsl(270, 65%, 20%);
 
-  --glass-border: 0.25px solid rgba(255, 255, 255, 0.2);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.2);
 
   --font-size: 24px;
   --font: "cochin";
