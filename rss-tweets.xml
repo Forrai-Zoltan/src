@@ -1,14 +1,37 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Gildrom</title>
-    <link>https://www.gildrom.com/</link>
-    <description>Twitter like posts.</description>
+    <title>Gildrom's Warbles</title>
+    <link>https://www.gildrom.com/personal/warbles</link>
+    <description>Noumenal ramblings from Gildrom's micro-blog.</description>
     <language>en-gb</language>
-
+    <category>Microblog</category>
     
+    <image>
+      <url>https://www.gildrom.com/cdn/media/img/socrates-middle-finger.png</url>
+      <title>Gildrom's Warbles</title>
+      <link>https://www.gildrom.com/personal/warbles</link>
+      <width>120</width>
+      <height>60</height>
+      <description>Logo for Gildrom's Warbles feed</description>
+    </image>
 
     <!-- Add more <item> blocks here -->
+    <item>
+      <title>Reading List Announcement</title>
+      <link>https://forrai-zoltan.github.io/personal/warbles.html#reading-list</link>
+      <description>
+        <![CDATA[
+          I have a <a href="https://www.gildrom.com/library">Reading List</a>! 
+          You can find it under <a href="https://www.gildrom.com/personal/obsessions">Obsessions</a>. 
+          Give me some good recommendations! 📚
+        ]]>
+      </description>
+      <pubDate>Mon, 22 Sep 2025 20:33:00 GMT</pubDate>
+      <guid isPermaLink="true">https://forrai-zoltan.github.io/personal/warbles.html#reading-list</guid>
+    </item>
 
+
+    
   </channel>
 </rss>
